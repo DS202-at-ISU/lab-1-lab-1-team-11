@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oocf_4W6)
 
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
@@ -17,3 +16,18 @@ All submissions to the github repo will be automatically uploaded for
 grading once the due date is passed. Submit a link to your repository on
 Canvas (only one submission per team) to signal to the instructors that
 you are done with your submission.
+
+------------------------------------------------------------------------
+
+Hudson: Running into issues with installing package “classdata” with
+“RTools is required…”
+
+To Fix: Installed RTools44,
+
+ran install package for classdata
+
+Hudson: Connected to git, able to push and pull with remote origin @
+ds202lab-1-team-11. Continuing to follow Chapter 12 instructions
+
+Hudson: I wish I had this class first semester!! Everyone always talks
+about “git” this, and “git” that.
