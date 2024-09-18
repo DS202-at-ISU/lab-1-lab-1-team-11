@@ -48,4 +48,8 @@ in 12.1
 
 12.4: ‘This is a line from RStudio’
 
-12.5:
+12.5: Pushed first 4 steps, no issues arose.
+
+12.6: ![](Screenshot%202024-09-18%20182338.png)
+
+12.7: Skipped cleanup part
