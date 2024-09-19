@@ -53,3 +53,13 @@ in 12.1
 12.6: ![](Screenshot%202024-09-18%20182338.png)
 
 12.7: Skipped cleanup part
+
+JACK OLSAN:
+
+12.1: All prerequisites met
+
+12.2: The repo already exists on github at this point
+
+12.3: cloned online gitclassroom to my computer and was able to see and edit the files
+
+12.4: ‘This is a line from RStudio’
