@@ -54,7 +54,7 @@ in 12.1
 
 12.7: Skipped cleanup part
 
-JACK OLSAN:
+JACK OLSAN (I did not encounter any errors):
 
 12.1: All prerequisites met
 
@@ -63,3 +63,10 @@ JACK OLSAN:
 12.3: cloned online gitclassroom to my computer and was able to see and edit the files
 
 12.4: ‘This is a line from RStudio’
+
+12.5: My local changes were pushed online to GitHub successfully!
+
+12.6: ![](JackOPushScreenshot.png)
+
+12.7: Skipped this step as per the instructions for this lab
+
