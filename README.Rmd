@@ -19,7 +19,13 @@ All submissions to the github repo will be automatically uploaded for grading on
 ------------------------------------------------------------------------
 Manas: 
 Steps followed for Chapter 12:
-12.1: Went through the prerequisites and ensured I have all of them. The repository had already been created.
+12.1: Went through the prerequisites and ensured I have all of them. A test repo was made
+
+12.2: The repo for this lab has already been created earlier. I've looked through the instructions and have a thorough understanding of how new repositories are created in github.
+
+12.3: I cloned the lab repo in my Documents folder through RStudio. It's nice to see that RStudio has a very straightforward way of cloning repos.
+
+This is a line from RStudio!
 
 Hudson: Running into issues with installing package "classdata" with "RTools is required..."
 
