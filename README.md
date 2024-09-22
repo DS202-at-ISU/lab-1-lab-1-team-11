@@ -69,4 +69,6 @@ JACK OLSAN (I did not encounter any errors):
 12.6: ![](JackOPushScreenshot.png)
 
 12.7: Skipped this step as per the instructions for this lab
+------------------------------------------------------------------------------------------
+This is a line from RStudio - Huu Huy Nguyen
 
