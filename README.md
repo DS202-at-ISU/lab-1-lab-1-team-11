@@ -70,5 +70,26 @@ JACK OLSAN (I did not encounter any errors):
 
 12.7: Skipped this step as per the instructions for this lab
 ------------------------------------------------------------------------------------------
-This is a line from RStudio - Huu Huy Nguyen
+HUU HUY NGUYEN
 
+12.1: All prerequisites met
+
+12.2: The repo already exists on github at this point
+
+12.3: cloned online gitclassroom to my computer and was able to see and edit the files
+
+12.4: ‘This is a line from RStudio’ - Huu Huy Nguyen
+
+12.5: Local changes were NOT pushed online to GitHub successfully!
+Error: remote ... permission denied
+       fatal: unable to access ...
+Fix: 
+      1/ Create public ssh key from instruction in the link "https://stackoverflow.com/questions/34400272/visual-studio-code-is-always-asking-for-git-credentials/50420113#50420113"
+      2/ Add public shh key to my account
+      3/ delete the project, create a new project with version control>git>[public SSH key (instead of https)]
+      4/ repeate 12.3-12.6
+My local changes were pushed online to GitHub successfully!
+
+12.6: Check "commits"
+
+12.7: Skipped this step as per the instructions for this lab
