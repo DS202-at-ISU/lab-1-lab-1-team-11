@@ -17,6 +17,9 @@ Include your answers in this document (Rmd file). Make sure that it knits proper
 All submissions to the github repo will be automatically uploaded for grading once the due date is passed. Submit a link to your repository on Canvas (only one submission per team) to signal to the instructors that you are done with your submission.
 
 ------------------------------------------------------------------------
+Manas: 
+Steps followed for Chapter 12:
+12.1: Went through the prerequisites and ensured I have all of them. The repository had already been created.
 
 Hudson: Running into issues with installing package "classdata" with "RTools is required..."
 
