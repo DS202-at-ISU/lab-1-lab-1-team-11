@@ -27,6 +27,14 @@ Steps followed for Chapter 12:
 
 This is a line from RStudio!
 
+12.4: I made a commit directly through RStudio, and commited. Onto the next step where I push my changes!
+
+12.5: I pushed my local changes to github through RStudio.
+
+12.6: I confirmed on our github repo site that the README file has been updated with my previous written lines. ![Commit Confirmation](Manas_Push.png)
+
+12.7: Skipping step 7 as we're not supposed to delete our repo.
+
 Hudson: Running into issues with installing package "classdata" with "RTools is required..."
 
 To Fix:
